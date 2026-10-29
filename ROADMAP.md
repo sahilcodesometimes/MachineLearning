@@ -1,6 +1,6 @@
 # Machine Learning Roadmap
 
-🗺️![Machine Learning Roadmap]((https://github.com/sahilcodesometimes/MachineLearning/blob/main/roadmap.svg))
+🗺️[Machine Learning Roadmap](https://github.com/sahilcodesometimes/MachineLearning/blob/main/roadmap.svg)
 
 A step-by-step path from Python basics to deploying machine learning and LLM applications.
 
