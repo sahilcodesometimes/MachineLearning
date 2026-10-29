@@ -22,7 +22,7 @@ So, I'm starting here — learning in public, sharing my progress, and building 
 
 | Area | What I'm Learning | Folder |
 |---|---|---|
-| 💻 Python | Fundamentals, practice questions & problem-solving | [Explore Python]([Python ( including questions )](https://github.com/sahilcodesometimes/MachineLearning/tree/main/Python%20(%20including%20questions%20))) |
+| 💻 Python | Fundamentals, practice questions & problem-solving | [Explore Python]((https://github.com/sahilcodesometimes/MachineLearning/tree/main/Python%20(%20including%20questions%20))) |
 | 🧱 C Data Structures | Programming fundamentals & data structures | [Explore C](./C%20DataStructures/) |
 | 🔢 NumPy | Numerical computing & ML implementations | [Explore NumPy](./NumPy/) |
 | 🐼 Pandas | Data manipulation, cleaning & analysis | [Explore Pandas](./Pandas/) |
