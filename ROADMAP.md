@@ -1,8 +1,3 @@
-# Machine Learning Roadmap
-
-🗺️[Machine Learning Roadmap](https://github.com/sahilcodesometimes/MachineLearning/blob/main/roadmap.svg)
-
-
 # 🧭 My Machine Learning Roadmap
 
 > Understanding the brain of AI, one concept at a time.
