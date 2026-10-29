@@ -24,7 +24,7 @@ So, I'm starting here — learning in public, sharing my progress, and building 
 |---|---|---|
 | 💻 Python | Fundamentals, practice questions & problem-solving | [Explore Python](https://github.com/sahilcodesometimes/MachineLearning/tree/main/Python%20(%20including%20questions%20)) |
 | 🧱 C Data Structures | Programming fundamentals & data structures | [Explore C](./C%20DataStructures/) |
-| 🔢 NumPy | Numerical computing & ML implementations | [Explore NumPy]((https://github.com/sahilcodesometimes/MachineLearning/tree/main/NumPy)) |
+| 🔢 NumPy | Numerical computing & ML implementations | [Explore NumPy](https://github.com/sahilcodesometimes/MachineLearning/tree/main/NumPy) |
 | 🐼 Pandas | Data manipulation, cleaning & analysis | [Explore Pandas](https://github.com/sahilcodesometimes/MachineLearning/tree/main/Pandas) |
 | 🤖 Machine Learning | ML algorithms, mathematics & projects | [Explore ML](https://github.com/sahilcodesometimes/MachineLearning/tree/main/machine%20learning) |
 | 🧪 ML Practice Projects | Small projects and experiments | [Explore Projects](https://github.com/sahilcodesometimes/MachineLearning/tree/main/Machine%20Learning%20Practice%20(%20small%20projects%20)/insurance-forecast) |
